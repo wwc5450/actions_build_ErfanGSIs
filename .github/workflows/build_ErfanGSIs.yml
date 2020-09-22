@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.0.1.0.PDICNXM/miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.PCHCNXM/miui_MINote3_V12.0.1.0.PCHCNXM_b412afcc14_9.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
